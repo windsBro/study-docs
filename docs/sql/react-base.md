@@ -114,4 +114,26 @@ class Square extends React.Component {
 }
 ```
 
+## advanced guides
+    1. coding splitting
+    2. context
+    3. error boundaries
+    4. forwarding Resfs
+    5. fragements
+    6. Higher-order component(**HOC**)
+
+
+> a highter-order component is a function that takes a component and returns a new component
+
+
+
 ## react-router-dom
+
+
+## props-types
+```bash
+    npm install props-types
+```
+
+
+## React Loadable
