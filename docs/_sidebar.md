@@ -4,3 +4,4 @@
 * [day01](/sql/day01.md)
 * [级联操作](/sql/cascade.md)
 * [https简介](/sql/https.md)
+* [linux学习](/linux/index.md)
